@@ -5,3 +5,8 @@ Collection of PMO templates including RAID logs, status reports, project charter
 - [Project KPI Dashboard](./Project_KPI_Dashboard.xlsx)
 
 This dashboard template demonstrates how project performance, budget tracking, milestone progress, and stakeholder reporting can be managed in a structured PMO format.
+## ⚠️ RAID Log Template
+
+- [RAID Log](./RAID_Log.xlsx)
+
+This template helps track Risks, Assumptions, Issues, and Dependencies to support structured project governance and proactive risk management.
