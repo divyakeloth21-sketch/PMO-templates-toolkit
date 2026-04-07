@@ -1,19 +1,49 @@
 # Weekly Project Status Report
 
-## 📅 Week:
-## 📊 Status: (Green / Amber / Red)
+## 📅 Reporting Period
+Week: [Enter Week]  
+Project: [Project Name]  
+Project Manager: Divya Keloth  
 
-### Completed Tasks:
-- Task 1
-- Task 2
+---
 
-### Upcoming Tasks:
-- Task 3
-- Task 4
+## 📊 Overall Status
+🟢 Green / 🟡 Amber / 🔴 Red  
 
-### Risks & Issues:
-- Risk 1
-- Issue 1
+---
 
-### Decisions Needed:
-- Approval required for X
+## ✅ Key Achievements
+- Completed milestone X  
+- Delivered dashboard update  
+- Stakeholder alignment achieved  
+
+---
+
+## 🔄 Upcoming Activities
+- Finalise reporting  
+- Conduct stakeholder review  
+- Prepare for next milestone  
+
+---
+
+## ⚠️ Risks & Issues
+- Risk: Delay in approval  
+- Issue: Resource availability  
+
+---
+
+## 📌 Decisions Required
+- Approval needed for next phase  
+- Budget confirmation  
+
+---
+
+## 📈 KPI Summary
+- On-time delivery: 85%  
+- Budget variance: 8%  
+- Task completion: 88%  
+
+---
+
+## 💬 Comments
+Project progressing well with minor delays. Risk mitigation in progress.
